@@ -131,8 +131,8 @@ From Spain {🇪🇸|}
 From Sweden {🇸🇪|}
 From Switzerland {🇨🇭|}
 From Ukraine {🇺🇦|}
-From the United Kingdom {🇬🇧|}
-From the United States {🇺🇸|}
+From the UK {🇬🇧|}
+From the US {🇺🇸|}
 From Uruguay {🇺🇾|}
 From Venezuela {🇻🇪|}
 From Wales {🏴󠁧󠁢󠁷󠁬󠁳󠁿|}
