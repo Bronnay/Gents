@@ -1,70 +1,69 @@
-Sales Associate {👗👠|}
-Cashier {💵🛒|}
-Store Manager {🔑🏬|}
-Waitress {🍽️👩‍🍳|}
-Barista {☕🥤|}
-Chef {👩‍🍳🔪|}
-Baker {🍞🧁|}
-Catering {🍽️🚚|}
-Pastry Chef {🍰🎂|}
-Hair Stylist {💇‍♀️✂️|}
-Make-up Artist {💄💋|}
-Esthetician {💆‍♀️🧖‍♀️|}
-Beauty Consultant {💅💄|}
-Nail Technician {💅🛁|}
-Spa Therapist {💆‍♀️🌺|}
-Salon Manager {💇‍♀️💼|}
-Nursing Assistant {🏥👩‍⚕️|}
-Medical Receptionist {🗂️🏥|}
-Physical Therapy Aide {🚶‍♂️👩‍⚕️|}
-Dental Assistant {🦷👩‍⚕️|}
-Pharmacy Technician {💊👩‍🔬|}
-Fitness Trainer {🏋️‍♀️👟|}
-Yoga Instructor {🧘‍♀️🕉️|}
-Tutor {📚👩‍🏫|}
-Daycare Worker {👶🍼|}
-Preschool Teacher {👩‍🏫🖍️|}
-Teaching Assistant {🍎📓|}
-Administrative Assistant {📞💻|}
-Receptionist {📞🔔|}
-Graphic Designer {🎨💻|}
-Photographer {📸🌅|}
-Videographer {🎥🎬|}
-Fashion Designer {👗✏️|}
-Interior Designer {🛋️🎨|}
-Illustrator {✏️📚|}
-Content Creator {📱💡|}
-Social Media Manager {💻❤️|}
-Housekeeper {🧹🏠|}
-Travel Agent {🌍✈️|}
-Tour Guide {🗺️👩‍🏫|}
-Flight Attendant {✈️👩‍✈️|}
-Event Coordinator {🎉🗓️|}
-Wedding Planner {💍👰|}
-Cruise Ship Worker {🚢👷‍♀️|}
-Freelancer {💻🏠|}
-Pet Sitter {🐕🐈|}
-Personal Shopper {🛍️👛|}
-Paralegal {📚⚖️|}
-Legal Assistant {🗃️⚖️|}
-Police Officer {👮‍♀️🚔|}
-Firefighter {👩‍🚒🔥|}
-EMT {🚑👩‍⚕️|}
-Lifeguard {🏊‍♀️🏖️|}
-Gymnastics Coach {🤸‍♀️🥇|}
-Sports Coach {⚽🏑|}
-Recreation Assistant {🎨🤹‍♀️|}
-Ski Instructor {🎿❄️|}
-Scuba Diving Instructor {🌊🤿|}
-Lab Assistant {🔬🧪|}
-Environmental Scientist {🌳🔍|}
-Biological Technician {🧫👩‍🔬|}
-Market Research Assistant {📊🔍|}
-Advertising Assistant {📢🖼️|}
-PR Assistant {🗞️📡|}
-Veterinary Assistant {🐾👩‍⚕️|}
-Dog Trainer {🐕🦴|}
-Zookeeper {🦁🐼|}
-Journalist {📰✍️|}
-Blogger {💻🤳|}
-Technical Writer {📄💻|}
+Sales Associate {👗👠|💼📈|🛍️}
+Cashier {💵🛒|💳📝|💰}
+Store Manager {🔑🏬|💼📊|📅}
+Waitress {🍽️👩‍🍳|💰📋|🍔}
+Barista {☕🥤|😄📝|☀️}
+Chef {👩‍🍳🔪|🍽️👨‍🍳|🍳}
+Baker {🍞🧁|👩‍🍳🍰|🍰}
+Catering {🍽️🚚|🥂🎉|🎈}
+Pastry Chef {🍰🎂|👩‍🍳🍩|🍮}
+Hair Stylist {💇‍♀️✂️|💄👱‍♀️|🌟}
+Make-up Artist {💄💋|🎨💅|💃}
+Esthetician {💆‍♀️🧖‍♀️|🌸💄|✨}
+Beauty Consultant {💅💄|👩‍🔬🧖‍♀️|💁}
+Nail Technician {💅🛁|💅🌼|💅}
+Spa Therapist {💆‍♀️🌺|🌸💆|🕯️}
+Salon Manager {💇‍♀️💼|🔑🏢|📊}
+Nursing Assistant {🏥👩‍⚕️|💉🌡|🚑}
+Medical Receptionist {🗂️🏥|💻📞|📋}
+Physical Therapy Aide {🚶‍♂️👩‍⚕️|💪🏋️|🏃}
+Dental Assistant {🦷👩‍⚕️|😷📋|💺}
+Pharmacy Technician {💊👩‍🔬|💉📦|🏪}
+Fitness Trainer {🏋️‍♀️👟|💪🥗|🏆}
+Yoga Instructor {🧘‍♀️🕉️|🙏🌞|🏮}
+Tutor {📚👩‍🏫|📝🎓|🧠}
+Daycare Worker {👶🍼|🧸🎈|🎨}
+Preschool Teacher {👩‍🏫🖍️|📚🎨|📖}
+Teaching Assistant {🍎📓|📝👩‍🏫|📚}
+Administrative Assistant {📞💻|📊📋|🗂️}
+Receptionist {📞🔔|👩‍💼📅|📋}
+Graphic Designer {🎨💻|🖌️📸|🎨}
+Photographer {📸🌅|📷🎞️|📸}
+Videographer {🎥🎬|🎞️📽️|🎥}
+Fashion Designer {👗✏️|🧵👠|👚}
+Interior Designer {🛋️🎨|🏡🔨|🏢}
+Illustrator {✏️📚|🎨🖋️|🖌️}
+Content Creator {📱💡|📹📝|📱}
+Social Media Manager {💻❤️|📲📊|👍}
+Housekeeper {🧹🏠|🏡🧽|🏚️}
+Travel Agent {🌍✈️|🗺️🏖️|🌴}
+Tour Guide {🗺️👩‍🏫|🌄🚌|🌆}
+Flight Attendant {✈️👩‍✈️|🌍🥂|🛫}
+Event Coordinator {🎉🗓️|🎈📋|📅}
+Wedding Planner {💍👰|🎩🌸|💒}
+Cruise Ship Worker {🚢👷‍♀️|🌊🏝️|🚢}
+Freelancer {💻🏠|🌟💼|💰}
+Pet Sitter {🐕🐈|🐾🏡|🐶}
+Personal Shopper {🛍️👛|👗👜|🛒}
+Paralegal {📚⚖️|👩‍⚖️📑|⚖️}
+Legal Assistant {🗃️⚖️|📋🏛️|📜}
+Police Officer {👮‍♀️🚔|🚓👮‍♂️|🚨}
+Firefighter {👩‍🚒🔥|🚒🔥|🚒}
+EMT {🚑👩‍⚕️|🆘🚨|🏥}
+Lifeguard {🏊‍♀️🏖️|👙🌊|🌞}
+Gymnastics Coach {🤸‍♀️🥇|🏅🤸‍♂️|🤸}
+Sports Coach {⚽🏑|🏆🎾|🏀}
+Recreation Assistant {🎨🤹‍♀️|🏞️🤸‍♂️|🏋️}
+Ski Instructor {🎿❄️|⛷️🏂|❄️}
+Lab Assistant {🔬🧪|📊📝|🔍}
+Environmental Scientist {🌳🔍|🌍🌿|🔬}
+Biological Technician {🧫👩‍🔬|🔬🌱|🌾}
+Market Research Assistant {📊🔍|📈📋|📝}
+Advertising Assistant {📢🖼️|📊📈|📰}
+PR Assistant {🗞️📡|📢📊|🗣️}
+Veterinary Assistant {🐾👩‍⚕️|🐶🐱|🏥}
+Dog Trainer {🐕🦴|🎾🐾|🐶}
+Zookeeper {🦁🐼|🐾🌿|🌳}
+Journalist {📰✍️|🎤📺|📝}
+Blogger {💻🤳|📝📷|📱}
+Technical Writer {📄💻|🖋️📊|💡}
