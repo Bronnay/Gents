@@ -54,7 +54,7 @@
 🇵🇹  {Portuguese|}
 🇷🇴  {Romanian|}
 🇷🇺  {Russian|}
-🏴󠁧󠁢󠁳󠁣󠁴󠁿         {Scottish|}
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 {Scottish|}
 🇷🇸  {Serbian|}
 🇸🇰  {Slovakian|}
 🇸🇮  {Slovenian|}
@@ -67,3 +67,72 @@
 🇺🇾  {Uruguayan|}
 🇻🇪  {Venezuelan|}
 🏴󠁧󠁢󠁷󠁬󠁳󠁿  {Welsh|}
+From Albania {🇦🇱|}
+From Andorra {🇦🇩|}
+From Argentina {🇦🇷|}
+From Australia {🇦🇺|}
+From Austria {🇦🇹|}
+From Belarus {🇧🇾|}
+From Belgium {🇧🇪|}
+From Belize {🇧🇿|}
+From Bolivia {🇧🇴|}
+From Bosnia {🇧🇦|}
+From Brazil {🇧🇷|}
+From Bulgaria {🇧🇬|}
+From Canada {🇨🇦|}
+From Chile {🇨🇱|}
+From Colombia {🇨🇴|}
+From Costa Rica {🇨🇷|}
+From Croatia {🇭🇷|}
+From Cyprus {🇨🇾|}
+From Czech Republic {🇨🇿|}
+From Denmark {🇩🇰|}
+From Ecuador {🇪🇨|}
+From El Salvador {🇸🇻|}
+From England {🏴󠁧󠁢󠁥󠁮󠁧󠁿|}
+From Estonia {🇪🇪|}
+From Fiji {🇫🇯|}
+From Finland {🇫🇮|}
+From France {🇫🇷|}
+From Greenland {🇬🇱|}
+From Guam {🇬🇺|}
+From Guatemala {🇬🇹|}
+From Honduras {🇭🇳|}
+From Hungary {🇭🇺|}
+From Iceland {🇮🇸|}
+From Ireland {🇮🇪|}
+From Isle of Man {🇮🇲|}
+From Italy {🇮🇹|}
+From Kosovo {🇽🇰|}
+From Latvia {🇱🇻|}
+From Lithuania {🇱🇹|}
+From Malta {🇲🇹|}
+From Mexico {🇲🇽|}
+From Moldova {🇲🇩|}
+From Monaco {🇲🇨|}
+From Montenegro {🇲🇪|}
+From the Netherlands {🇳🇱|}
+From New Zealand {🇳🇿|}
+From Nicaragua {🇳🇮|}
+From North Macedonia {🇲🇰|}
+From Norway {🇳🇴|}
+From Panama {🇵🇦|}
+From Paraguay {🇵🇾|}
+From Peru {🇵🇪|}
+From Poland {🇵🇱|}
+From Portugal {🇵🇹|}
+From Romania {🇷🇴|}
+From Russia {🇷🇺|}
+From Scotland {🏴󠁧󠁢󠁳󠁣󠁴󠁿|}
+From Serbia {🇷🇸|}
+From Slovakia {🇸🇰|}
+From Slovenia {🇸🇮|}
+From Spain {🇪🇸|}
+From Sweden {🇸🇪|}
+From Switzerland {🇨🇭|}
+From Ukraine {🇺🇦|}
+From the United Kingdom {🇬🇧|}
+From the United States {🇺🇸|}
+From Uruguay {🇺🇾|}
+From Venezuela {🇻🇪|}
+From Wales {🏴󠁧󠁢󠁷󠁬󠁳󠁿|}
